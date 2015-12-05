@@ -1,0 +1,15 @@
+bold {
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+    background: linear-gradient(white, black);
+    height: 100%;
+}
+
+
+#your_canvas {
+    background-color: rgba(103, 15, 15, 0.66);
+    color:  rgba(255, 177, 0, 0.46);
+}
